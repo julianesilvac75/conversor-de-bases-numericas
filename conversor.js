@@ -24,5 +24,10 @@ function decimalToBinary(dec) {
   return divide(dec, 2);
 }
 
+// Binário para decimal
+// ........
 
-console.log(decimalToBinary(19));
+
+//Prática de aula:
+console.log("Temperatura do ar:", decimalToBinary(26));
+console.log("Velocidade do vento:",decimalToBinary(19));
